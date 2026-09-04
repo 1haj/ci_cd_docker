@@ -1,1 +1,1 @@
-## This project shouw how to work with github action dss
+## This project shouw how to work with github action dsscx
